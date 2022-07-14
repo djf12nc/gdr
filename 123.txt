@@ -1,0 +1,10 @@
+trojan-go://f4b77b06-970c-4e1a-937b-021b07b2d771@njfcf.herokuapp.com:443/?type=ws&sni=njfcf.herokuapp.com&host=njfcf.herokuapp.com&path=%2Ff4b77b06-970c-4e1a-937b-021b07b2d771-trojan#trojan-go@njfcf.herokuapp.com:443
+trojan-go://6385a1d1-ecc0-4d5e-b1db-964ff5d18d0d@eweqm.herokuapp.com:443/?type=ws&sni=eweqm.herokuapp.com&host=eweqm.herokuapp.com&path=%2F6385a1d1-ecc0-4d5e-b1db-964ff5d18d0d-trojan#trojan-go@eweqm.herokuapp.com:443
+trojan-go://cef46291-3313-4f2f-aa50-bb880cec6ecc@lkadh.herokuapp.com:443/?type=ws&sni=lkadh.herokuapp.com&host=lkadh.herokuapp.com&path=%2Fcef46291-3313-4f2f-aa50-bb880cec6ecc-trojan#trojan-go@lkadh.herokuapp.com:443
+trojan-go://0819ca13-c96b-44bc-b4a2-ff41c4f715b6@yuojh.herokuapp.com:443/?type=ws&sni=yuojh.herokuapp.com&host=yuojh.herokuapp.com&path=%2F0819ca13-c96b-44bc-b4a2-ff41c4f715b6-trojan#trojan-go@yuojh.herokuapp.com:443
+trojan-go://ef46e838-fd16-41dd-9162-7a8a101fde1d@gfdtyu.herokuapp.com:443/?type=ws&sni=gfdtyu.herokuapp.com&host=gfdtyu.herokuapp.com&path=%2Fef46e838-fd16-41dd-9162-7a8a101fde1d-trojan#trojan-go@gfdtyu.herokuapp.com:443
+trojan-go://f4b77b06-970c-4e1a-937b-021b07b2d771@172.64.159.190:443/?type=ws&sni=jkxvc.pages.dev&host=jkxvc.pages.dev&path=%2Ff4b77b06-970c-4e1a-937b-021b07b2d771-trojan#trojan-go@jkxvc.pages.dev:443
+trojan-go://6385a1d1-ecc0-4d5e-b1db-964ff5d18d0d@172.64.159.190:443/?type=ws&sni=owewk.pages.dev&host=owewk.pages.dev&path=%2F6385a1d1-ecc0-4d5e-b1db-964ff5d18d0d-trojan#trojan-go@172.64.159.190:443
+trojan-go://cef46291-3313-4f2f-aa50-bb880cec6ecc@172.64.159.190:443/?type=ws&sni=xkdjfh.pages.dev&host=xkdjfh.pages.dev&path=%2Fcef46291-3313-4f2f-aa50-bb880cec6ecc-trojan#trojan-go@172.64.159.190:443
+trojan-go://0819ca13-c96b-44bc-b4a2-ff41c4f715b6@172.64.159.190:443/?type=ws&sni=nvbse.pages.dev&host=nvbse.pages.dev&path=%2F0819ca13-c96b-44bc-b4a2-ff41c4f715b6-trojan#trojan-go@172.64.159.190:443
+trojan-go://ef46e838-fd16-41dd-9162-7a8a101fde1d@172.64.159.190:443/?type=ws&sni=kjmnd.pages.dev&host=kjmnd.pages.dev&path=%2Fef46e838-fd16-41dd-9162-7a8a101fde1d-trojan#trojan-go@172.64.159.190:443
